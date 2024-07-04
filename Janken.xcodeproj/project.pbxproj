@@ -14,6 +14,7 @@
 		9E5088082C36CEE700C3E5CF /* JankenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5088072C36CEE700C3E5CF /* JankenTests.swift */; };
 		9E5088122C36CEE700C3E5CF /* JankenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5088112C36CEE700C3E5CF /* JankenUITests.swift */; };
 		9E5088142C36CEE700C3E5CF /* JankenUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5088132C36CEE700C3E5CF /* JankenUITestsLaunchTests.swift */; };
+		9E5088212C36CF9900C3E5CF /* ButtonMovesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5088202C36CF9900C3E5CF /* ButtonMovesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		9E50880D2C36CEE700C3E5CF /* JankenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JankenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E5088112C36CEE700C3E5CF /* JankenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JankenUITests.swift; sourceTree = "<group>"; };
 		9E5088132C36CEE700C3E5CF /* JankenUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JankenUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9E5088202C36CF9900C3E5CF /* ButtonMovesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonMovesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				9E5087F62C36CEE600C3E5CF /* JankenApp.swift */,
 				9E5087F82C36CEE600C3E5CF /* ContentView.swift */,
+				9E5088202C36CF9900C3E5CF /* ButtonMovesView.swift */,
 				9E5087FA2C36CEE700C3E5CF /* Assets.xcassets */,
 				9E5087FC2C36CEE700C3E5CF /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				9E5087F92C36CEE600C3E5CF /* ContentView.swift in Sources */,
 				9E5087F72C36CEE600C3E5CF /* JankenApp.swift in Sources */,
+				9E5088212C36CF9900C3E5CF /* ButtonMovesView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
